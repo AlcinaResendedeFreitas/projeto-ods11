@@ -40,16 +40,16 @@ a:visited{
 #title{
     position: absolute;
     top: 0;
-    left: 8.5%;
+    left: 8.9%;
     height: 100%;
 }
 
 #title-text{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 230%;
+    font-size: 250%;
     color:  #fff;   
-    margin-top: 6.5%;
+    margin-top: 9%;
     margin-bottom: 0; 
     font-weight: lighter;
 }
@@ -83,8 +83,8 @@ a:visited{
 
 #subtitle-content{
     position: absolute;
-    top: 5%;
-    left: 30%;
+    top: 9%;
+    left: 29.5%;
     width: 45%;
     z-index: 25;
     text-align: left;
@@ -92,7 +92,7 @@ a:visited{
 
 #subtitle-text{
     color: rgba(255,157,0,255);
-    font-size: 475%;
+    font-size: 625%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-weight: bold;
@@ -125,7 +125,7 @@ a:visited{
 #content-title-1{
     position: absolute;
     top: 0.5%;
-    left: 27.5%;
+    left: 26.75%;
     height: 4%;
     width: 50%;
 }
@@ -142,7 +142,7 @@ a:visited{
 #content-img-1{
     position: absolute;
     top: 2%;
-    left: 15%;
+    left: 14.75%;
     width: 78%;
     height: 13.75%;
 }
@@ -163,7 +163,7 @@ a:visited{
 
 #content-title-2{
     position: absolute;
-    top: 23.75%;
+    top: 23%;
     left: 26%;
     height: 0.5%;
     width: 50%;
@@ -171,7 +171,7 @@ a:visited{
 
 #content-img-2{
     position: absolute;
-    top: 22.7%;
+    top: 21.7%;
     left: 10%;
     width: 44.5%;
     height: 13%;
@@ -186,7 +186,7 @@ a:visited{
 #p2{
     font-size: 160%;
     position: absolute;
-    top: 26.5%;
+    top: 27.1%;
     left: 54%;
     width: 35%;
     height: 10%;
@@ -209,7 +209,7 @@ a:visited{
 
 #p3{
     position: absolute;
-    top: 36%;
+    top: 37.2%;
     left: 16%;
     width: 33%;
     height: 10%;
@@ -218,7 +218,7 @@ a:visited{
 
 #p4{
     position: absolute;
-    top: 44%;
+    top: 44.5%;
     left: 26.9%;
     width: 45%;
     height: 10%;
@@ -227,7 +227,7 @@ a:visited{
 
 #p5{
     position: absolute;
-    top: 53.5%;
+    top: 53.75%;
     left: 40%;
     width: 45%;
     height: 10%;
@@ -249,7 +249,7 @@ a:visited{
 
 #p6{
     position: absolute;
-    top: 59%;
+    top: 59.5%;
     left: 40%;
     width: 45%;
     height: 10%;
@@ -271,7 +271,7 @@ a:visited{
 
 #p7{
     position: absolute;
-    top: 66.5%;
+    top: 67.2%;
     left: 40%;
     width: 45%;
     height: 10%;
@@ -293,7 +293,7 @@ a:visited{
 
 #p8{
     position: absolute;
-    top: 74%;
+    top: 74.5%;
     left: 40%;
     width: 45%;
     height: 10%;
@@ -325,7 +325,7 @@ a:visited{
     position: absolute;
     top: 82.8%;
     left: 17%;
-    width: 24%;
+    width: 24.75%;
     height: 5.25%;
 }
 
@@ -351,8 +351,8 @@ a:visited{
 
 #content-subtitle-1{
     position: absolute;
-    top: 88.5%;
-    left: 21%;
+    top: 88.38%;
+    left: 22.3%;
     height: 0.5%;
     width: 50%;
 }
@@ -360,14 +360,14 @@ a:visited{
 #content-subtitle-2{
     position: absolute;
     top: 95.2%;
-    left: 20.75%;
+    left: 22.2%;
     height: 0.5%;
     width: 50%;
 }
 
 #p9{
     position: absolute;
-    top: 82.7%;
+    top: 83.5%;
     left: 45%;
     width: 45%;
     height: 10%;
@@ -377,8 +377,8 @@ a:visited{
 
 #p10{
     position: absolute;
-    top: 88.7%;
-    left: 45.5%;
+    top: 89.5%;
+    left: 46.5%;
     width: 45%;
     height: 10%;
     text-align: left;
@@ -393,7 +393,7 @@ a:visited{
 
 p{
     color: white;
-    font-size: 175%;
+    font-size: 180%;
     font-family: "Montserrat";
 }
 
@@ -413,15 +413,6 @@ p{
     width: 48%;
     height: 90%;
     left: 2%;
-    bottom: 10%;
-}
-
-#footer-title-1{
-    color: white;
-    font-size: 220%;
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 #footer-content-2{
@@ -439,7 +430,7 @@ p{
     z-index: 25;
     top: 12%;
     left: 6.5%;
-    width: 16%;
+    width: 16.5%;
     height: 20%;
 }
 
@@ -456,25 +447,56 @@ p{
     position: absolute;
     z-index: 25;
     top: 59%;
-    width: 20%;
+    width: 20.75%;
     height: 24.5%;
+}
+
+#footer-title-1{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    color: white;
+    font-size: 220%;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 #footer-title-2{
     position: absolute;
-    top: 10%;
-    left: 30%;
+    top: 30%;
+    left: 2.5%;
+    color: white;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 #footer-title-3{
     position: absolute;
-    top: 35%;
-    left: 30%;
+    top: 55%;
+    left: 2.5%;
+    color: white;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 #footer-title-4{
     position: absolute;
-    top: 60%;
+    top: 12%;
+    left: 30%;
+}
+
+#footer-title-5{
+    position: absolute;
+    top: 36.5%;
+    left: 30%;
+}
+
+#footer-title-6{
+    position: absolute;
+    top: 61%;
     left: 30%;
 }
 
