@@ -173,14 +173,13 @@ a:visited{
     position: absolute;
     top: 21.7%;
     left: 10%;
-    width: 44.5%;
-    height: 13%;
+    width: 41%;
+    height: 8%;
 }
 
 #img-2{
     width: 100%;
     height: 100%;
-    border-radius: 120px;
 }
 
 #p2{
